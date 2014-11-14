@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CGameOfLife:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CGameOfLife_jar</output-path>
+    <root id="archive" name="CGameOfLife.jar">
+      <element id="module-output" name="CGameOfLife" />
+      <element id="directory" name="src">
+        <element id="dir-copy" path="$PROJECT_DIR$/src" />
+      </element>
+    </root>
+  </artifact>
+</component>
